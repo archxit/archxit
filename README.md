@@ -1,8 +1,8 @@
 # Hi there, I'm Archit Srivastava 👋
 
-/*<div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=250&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Finance+%2B+Technology+Enthusiast;MIT+Manipal+Student" alt="Typing SVG" />
-</div>*/
+</div>
 
 ## 🚀 About Me
 
@@ -37,12 +37,12 @@
 
 ---
 
-## 💡 What I'm Working On
+//## 💡 What I'm Working On
 
-- 🏦 Building **FinTech applications** that bridge finance and technology
-- 📚 Deepening my knowledge in **Spring ecosystem** and **React**
-- 🚀 Developing **full-stack projects** to showcase my skills
-- 💼 Exploring **algorithmic trading** and **financial data analysis**
+//- 🏦 Building **FinTech applications** that bridge finance and technology
+//- 📚 Deepening my knowledge in **Spring ecosystem** and **React**
+//- 🚀 Developing **full-stack projects** to showcase my skills
+//- 💼 Exploring **algorithmic trading** and **financial data analysis**
 
 ---
 
