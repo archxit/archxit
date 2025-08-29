@@ -37,12 +37,12 @@
 
 ---
 
-//## 💡 What I'm Working On
+## 💡 What I'm Working On
 
-//- 🏦 Building **FinTech applications** that bridge finance and technology
-//- 📚 Deepening my knowledge in **Spring ecosystem** and **React**
-//- 🚀 Developing **full-stack projects** to showcase my skills
-//- 💼 Exploring **algorithmic trading** and **financial data analysis**
+- 🏦 Building **FinTech applications** that bridge finance and technology
+- 📚 Deepening my knowledge in **Spring ecosystem** and **React**
+- 🚀 Developing **full-stack projects** to showcase my skills
+- 💼 Exploring **algorithmic trading** and **financial data analysis**
 
 ---
 
