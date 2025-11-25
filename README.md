@@ -58,6 +58,8 @@ My interests lie at the intersection of **Software Engineering and Finance**, wi
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/archxit/archxit/main/github-metrics.svg" alt="GitHub Metrics" />
+<img src="https://stats.dooboo.io/api/github-stats?username=archxit&theme=dark" height="160" />
+<img src="https://stats.dooboo.io/api/github-top-langs?username=archxit&theme=dark&layout=compact" height="160" />
 
 
 <div align="center">
