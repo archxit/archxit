@@ -1,0 +1,30 @@
+name: Generate GitHub ReadMe Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs daily at UTC midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate metrics SVG
+        run: |
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='300' height='60'>
+                  <rect width='300' height='60' fill='#24292f'/>
+                  <text x='150' y='35' fill='#ffffff' font-size='20' text-anchor='middle'>
+                    GitHub Stats for archxit
+                  </text>
+                </svg>" > github-metrics.svg
+
+      - name: Commit metrics file
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Update metrics file"
+          file: github-metrics.svg
