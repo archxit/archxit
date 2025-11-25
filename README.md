@@ -1,15 +1,9 @@
-# Hi there, I'm Archit Srivastava 👋
+# Archit Srivastava
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=250&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Finance+%2B+Technology+Enthusiast;MIT+Manipal+Student" alt="Typing SVG" />
-</div>
+## Full-Stack Java Developer | FinTech & Technology Enthusiast | MIT Manipal
 
-## 🚀 About Me
-
-🎓 **3rd Year Student** at MIT Manipal  
-💻 **Aspiring Java Full Stack Developer**  
-📈 **Passionate about** the intersection of **Finance & Computer Science**  
-🌱 Currently exploring **FinTech** solutions and modern web technologies
+I am a third-year B.Tech student specializing in Computer & Communication Engineering at MIT Manipal.  
+My interests lie at the intersection of **Software Engineering and Finance**, with a focus on building **scalable full-stack applications** and exploring **algorithmic trading and financial systems**.
 
 ---
 
@@ -37,12 +31,26 @@
 
 ---
 
-## 💡 What I'm Working On
 
-- 🏦 Building **FinTech applications** that bridge finance and technology
-- 📚 Deepening my knowledge in **Spring ecosystem** and **React**
-- 🚀 Developing **full-stack projects** to showcase my skills
-- 💼 Exploring **algorithmic trading** and **financial data analysis**
+## Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Transport Enquiry System** | Full-stack system with user/admin management, route operations & REST API backend | Spring Boot, React, MySQL |
+| **3D Weather Globe** | Interactive 3D visualization rendering dynamic world simulation | WebGL, JavaScript |
+| **Ultrasonic Distance Measurement** | Embedded real-time distance measurement with LCD display | ARM LPC1768, Embedded C, Keil, Flash Magic |
+| **Portfolio Website** | Personal portfolio showcasing work and background | HTML, CSS, JavaScript |
+
+> More repositories are available in my GitHub profile, actively maintained and improved.
+
+---
+
+## Current Focus Areas
+
+- Deepening expertise in **Spring ecosystem** and **enterprise backend development**
+- Architecting scalable real-world systems using modern full-stack practices
+- Exploring **financial computing, markets data analytics & algorithmic trading**
+- Preparing for **FinTech / Backend Engineering internships**
 
 ---
 
@@ -59,24 +67,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archxit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const archit = {
-    code: ["Java", "JavaScript", "HTML", "CSS"],
-    technologies: {
-        backEnd: ["Spring", "Spring Boot"],
-        frontEnd: ["React"],
-        databases: ["MongoDB", "MySQL", "SQL", "NoSQL"],
-        interests: ["FinTech", "Algorithmic Trading", "Web Development"]
-    },
-    currentFocus: "Building scalable full-stack applications",
-    futureGoals: "Contributing to innovative FinTech solutions"
-};
-```
 
 ---
 
