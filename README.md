@@ -2,8 +2,8 @@
 
 ### Full-Stack Java Developer · FinTech & Technology Enthusiast · MIT Manipal
 
-I am a third-year B.Tech student in Computer and Communication Engineering at MIT Manipal.  
-My work is focused on building scalable full-stack applications and exploring the intersection of software engineering and finance, including algorithmic trading and financial systems.
+Third-year B.Tech student in Computer and Communication Engineering at MIT Manipal.  
+Focused on scalable full-stack development and the intersection of software engineering and finance, including algorithmic trading and market systems.
 
 ---
 
@@ -41,32 +41,28 @@ My work is focused on building scalable full-stack applications and exploring th
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **Transport Enquiry System** | Full-stack system with user/admin management, route handling and REST APIs | Spring Boot, React, MySQL |
-| **3D Weather Globe** | Interactive 3D visualization simulating a globe with environmental data | WebGL, JavaScript |
-| **Ultrasonic Distance Measurement** | Real-time embedded distance measurement system with LCD output | ARM LPC1768, Embedded C, Keil, Flash Magic |
-| **Portfolio Website** | Personal portfolio showcasing academic work and projects | HTML, CSS, JavaScript |
+| **Transport Enquiry System** | Full-stack system with user/admin management and route operations | Spring Boot · React · MySQL |
+| **3D Weather Globe** | Interactive 3D environment simulation | WebGL · JavaScript |
+| **Ultrasonic Distance Measurement** | Real-time embedded distance measurement system | ARM LPC1768 · Embedded C · Keil · Flash Magic |
+| **Portfolio Website** | Responsive personal portfolio | HTML · CSS · JavaScript |
 
-> More repositories are available on my GitHub profile and actively maintained.
+> More repositories are available on my GitHub profile.
 
 ---
 
 ## 🎯 Current Focus
+
 - Building scalable production-style full-stack applications
-- Backend engineering with Spring Boot and SQL architecture
-- Financial computing & algorithmic trading research
-- Preparing for FinTech / backend engineering internships
+- Backend engineering using Spring Boot & SQL database architecture
+- Exploring financial computing, market data analysis & algorithmic trading
+- Preparing for FinTech / Backend Engineering internship opportunities
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/archxit/archxit/main/github-metrics.svg" alt="GitHub Metrics" />
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archxit&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archxit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=archxit&theme=radical&hide_border=true" height="160px"/>
 </div>
 
 ---
@@ -75,17 +71,15 @@ My work is focused on building scalable full-stack applications and exploring th
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archit_Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/architsrivastavabiz/)
-[![X](https://img.shields.io/badge/X-archxit-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/archxit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archit_Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/architsrivastavabiz)
+[![X](https://img.shields.io/badge/X-archxit-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/archxit)
 [![Email](https://img.shields.io/badge/Email-architsrivastava1107%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architsrivastava1107@gmail.com)
 
-</div>
+<br><br>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=archxit&color=blueviolet&style=flat-square" />
 
-<img src="https://komarev.com/ghpvc/?username=archxit&color=blueviolet&style=flat-square" alt="Profile views" />
-
-<br /><br />
-<b>Open to opportunities in Full-Stack Development, Backend Engineering, and FinTech.</b>
+<br><br>
+<b>Open to opportunities in Full-Stack Development, Backend Engineering & FinTech.</b>
 
 </div>
