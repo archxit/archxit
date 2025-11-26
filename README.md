@@ -16,16 +16,13 @@ Focused on scalable full-stack development and the intersection of software engi
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=arm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -34,19 +31,6 @@ Focused on scalable full-stack development and the intersection of software engi
 ![Keil uVision](https://img.shields.io/badge/Keil_uVision-0080FF?style=for-the-badge&logo=arm&logoColor=white)
 ![Flash Magic](https://img.shields.io/badge/Flash_Magic-FF9900?style=for-the-badge&logo=lightning&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **Transport Enquiry System** | Full-stack system with user/admin management and route operations | Spring Boot · React · MySQL |
-| **3D Weather Globe** | Interactive 3D environment simulation | WebGL · JavaScript |
-| **Ultrasonic Distance Measurement** | Real-time embedded distance measurement system | ARM LPC1768 · Embedded C · Keil · Flash Magic |
-| **Portfolio Website** | Responsive personal portfolio | HTML · CSS · JavaScript |
-
-> More repositories are available on my GitHub profile.
 
 ---
 
@@ -74,12 +58,9 @@ Focused on scalable full-stack development and the intersection of software engi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Archit_Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/architsrivastavabiz)
 [![X](https://img.shields.io/badge/X-archxit-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/archxit)
 [![Email](https://img.shields.io/badge/Email-architsrivastava1107%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architsrivastava1107@gmail.com)
-
-<br><br>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=archxit&color=blueviolet&style=flat-square" />
-
-<br><br>
+<br>
 <b>Open to opportunities in Full-Stack Development, Backend Engineering & FinTech.</b>
 
 </div>
