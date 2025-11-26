@@ -46,7 +46,8 @@ Focused on scalable full-stack development and the intersection of software engi
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=archxit&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=archxit&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://streak-stats.vercel.app/?user=archxit&theme=radical&hide_border=true" height="160px"/>
 </div>
 
 ---
